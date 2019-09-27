@@ -41,6 +41,7 @@ curl http://localhost:8088/greeting?name=Zoltan
 
 1. Map the port 8080 to the public interface in the BME Cloud Manager
 2. Visit the generated endpoint 
+    user: Admin Passw: devops
 3. Create a new freestyle job
    - Set your GitHub link to your project
    - Configure SCM: git
